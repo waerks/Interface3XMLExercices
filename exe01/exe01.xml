@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livres
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="./exe01.xsd">
+    <livre nom-série="Harry Potter" tome="1">
+        <titre>Harry Potter : A l'école des sorciers</titre>
+        <auteur>
+            <prénom>J.K.</prénom>
+            <nom>Rowling</nom>
+        </auteur>
+        <genre>Fantasie</genre>
+        <date-publication format="dd-mm-yyyy">21/06/1999</date-publication>
+    </livre>
+    <livre nom-série="Harry Potter" tome="2">
+        <titre>Harry Potter : La chambre des secrets</titre>
+        <auteur>
+            <prénom>J.K.</prénom>
+            <nom>Rowling</nom>
+        </auteur>
+        <genre>Fantasie</genre>
+        <date-publication format="dd-mm-yyyy">21/06/2002</date-publication>
+    </livre>
+    <livre>
+        <titre>Jhon : le petit train</titre>
+        <auteur>
+            <prénom>Samuel</prénom>
+            <nom>Legrain</nom>
+        </auteur>
+        <genre>Enfance</genre>
+        <date-publication format="dd-mm-yyyy">20/08/2024</date-publication>
+    </livre>
+</livres>

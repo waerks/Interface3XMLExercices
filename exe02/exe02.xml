@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annuaire
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="./exe02.xsd">
+    <personne>
+        <genre>Non-binaire</genre>
+        <noms>
+            <nom>Gérard</nom>
+            <prénom>Dominique</prénom>
+        </noms>
+        <adresse>
+            <rue>Avenue des cerisiers</rue>
+            <numéro>23bis</numéro>
+            <code-postal>1000</code-postal>
+            <ville>Bruxelles</ville>
+            <pays>Belgique</pays>
+        </adresse>
+        <numeros>
+            <numero type="domicile">+3280033800</numero>
+            <numero type="bureau">+3280033800</numero>
+        </numeros>
+        <emails>
+            <email type="personnel">sam@fait.rire</email>
+            <email type="professionel">samuel.legrain@bstorm.be</email>
+        </emails>
+    </personne>
+    <personne>
+        <genre>Homme</genre>
+        <noms>
+            <nom>Legrain</nom>
+            <prénom>Samuel</prénom>
+        </noms>
+        <adresse>
+            <rue>Avenue des chênes</rue>
+            <numéro>2</numéro>
+            <code-postal>6000</code-postal>
+            <ville>Charleroi</ville>
+            <pays>Belgique</pays>
+        </adresse>
+        <numeros>
+            <numero type="domicile">+3280033800</numero>
+            <numero type="bureau">+3280033800</numero>
+        </numeros>
+        <emails>
+            <email type="personnel">sam@fait.rire</email>
+            <email type="professionel">samuel.legrain@bstorm.be</email>
+        </emails>
+    </personne>
+    <personne>
+        <genre>Femme</genre>
+        <noms>
+            <nom>Beurive</nom>
+            <prénom>Aude</prénom>
+        </noms>
+        <adresse>
+            <rue>Boulevard des grands chemins</rue>
+            <numéro>14</numéro>
+            <code-postal>4000</code-postal>
+            <ville>Liège</ville>
+            <pays>Belgique</pays>
+        </adresse>
+        <numeros>
+            <numero type="domicile">+3280033800</numero>
+            <numero type="bureau">+3280033800</numero>
+        </numeros>
+        <emails>
+            <email type="personnel">sam@fait.rire</email>
+            <email type="professionel">samuel.legrain@bstorm.be</email>
+        </emails>
+    </personne>
+</annuaire>
